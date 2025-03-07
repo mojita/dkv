@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.mojita.core.lsm.DefaultMemTableTest" time="2.944" tests="3" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="d:\myproject\distributed-kv\sky\sky-styly\dkv-core\target\test-classes;d:\myproject\distributed-kv\sky\sky-styly\dkv-core\target\classes;D:\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.2\junit-jupiter-api-5.9.2.jar;D:\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;D:\.m2\repository\org\junit\platform\junit-platform-commons\1.9.2\junit-platform-commons-1.9.2.jar;D:\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;D:\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.2\junit-jupiter-engine-5.9.2.jar;D:\.m2\repository\org\junit\platform\junit-platform-engine\1.9.2\junit-platform-engine-1.9.2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_291\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\mojita\AppData\Local\Temp\surefire2136021636808093331\surefirebooter8182946534971834420.jar C:\Users\mojita\AppData\Local\Temp\surefire2136021636808093331 2025-03-06T20-10-07_172-jvmRun1 surefire1400984684014771415tmp surefire_04324899381674011259tmp"/>
+    <property name="surefire.test.class.path" value="d:\myproject\distributed-kv\sky\sky-styly\dkv-core\target\test-classes;d:\myproject\distributed-kv\sky\sky-styly\dkv-core\target\classes;D:\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.2\junit-jupiter-api-5.9.2.jar;D:\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;D:\.m2\repository\org\junit\platform\junit-platform-commons\1.9.2\junit-platform-commons-1.9.2.jar;D:\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;D:\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.2\junit-jupiter-engine-5.9.2.jar;D:\.m2\repository\org\junit\platform\junit-platform-engine\1.9.2\junit-platform-engine-1.9.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\mojita"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_291\jre"/>
+    <property name="basedir" value="d:\myproject\distributed-kv\sky\sky-styly\dkv-core"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\mojita\AppData\Local\Temp\surefire2136021636808093331\surefirebooter8182946534971834420.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_291\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_291\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_291-b10"/>
+    <property name="user.name" value="mojita"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_291\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="D:\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\mojita\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_291"/>
+    <property name="user.dir" value="d:\myproject\distributed-kv\sky\sky-styly\dkv-core"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_291\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\NVIDIA_GPU_ToolKit\bin;D:\NVIDIA_GPU_ToolKit\libnvvp;D:\vm\bin\;C:\Program Files\Java\jdk1.8.0_291\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D;\软件\xftp\;D:\Git\cmd;C:\Program Files (x86)\VanDyke Software\Clients\;D:\apache-maven-3.8.1\bin;D:\svn\bin;C:\Program Files\Asiainfo Security\AisEsmAgent\atom_plugins\base_plugin;C:\Windows\RCC-Interface;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.4.0\;D:\nvm\nvm;D:\nvm\nodejs;D:\python2.7;D:\python2.7\Scripts;C:\Program Files\dotnet\;D:\apache-maven-3.8.1\bin;D:\graalvm-jdk-17.0.12\bin;E:\Windows Kits\10\Windows Performance Toolkit\;E:\Windows Kits\10\Include\10.0.22621.0\shared;E:\Windows Kits\10\Include\10.0.22621.0\ucrt;E:\Windows Kits\10\Include\10.0.22621.0\um;E:\visual-studio\community\VC\Tools\MSVC\14.41.34120\lib\x64;;c:\Users\mojita\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\mojita\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\mojita\AppData\Local\Programs\Python\Python37-32\;C:\Users\mojita\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\VanDyke Software\Clients\;C:\Users\mojita\AppData\Roaming\npm;D:\Microsoft VS Code\bin;D:\nvm\nvm;D:\nvm\nodejs;D:\python2.7;D:\python2.7\Scripts;D:\graalvm-jdk-17.0.12\bin;E:\Windows Kits\10\Include\10.0.22621.0\ucrt;E:\Windows Kits\10\Include\10.0.22621.0\shared;E:\Windows Kits\10\Include\10.0.22621.0\um;E:\visual-studio\community\VC\Tools\MSVC\14.41.34120\lib\x64;C:\Users\mojita\AppData\Local\Programs\cursor\resources\app\bin;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.291-b10"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="testSwitchToImmutable" classname="com.mojita.core.lsm.DefaultMemTableTest" time="2.92"/>
+  <testcase name="testSizeTracking" classname="com.mojita.core.lsm.DefaultMemTableTest" time="0.007"/>
+  <testcase name="testBasicOperations" classname="com.mojita.core.lsm.DefaultMemTableTest" time="0.008"/>
+</testsuite>
